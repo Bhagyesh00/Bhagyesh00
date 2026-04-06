@@ -276,13 +276,9 @@ bhagyesh@cloud-kingdom:~$ echo $STATUS
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0a0f1a?style=for-the-badge&logo=instagram&logoColor=00BFFF)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0f1a?style=for-the-badge&logo=instagram&logoColor=00BFFF)]([#](https://www.instagram.com/bhagyesh_100))
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-0a0f1a?style=for-the-badge&logo=facebook&logoColor=39FF14)](#)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-0a0f1a?style=for-the-badge&logo=hackerrank&logoColor=8B5CF6)](#)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1a?style=for-the-badge&logo=firefox-browser&logoColor=00FFFF)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1a?style=for-the-badge&logo=firefox-browser&logoColor=00FFFF)](https://www.linkedin.com/in/bhagyesh-khachane)
 
 </div>
 
